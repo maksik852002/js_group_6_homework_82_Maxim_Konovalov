@@ -1,0 +1,6 @@
+[
+{ "_id" : { "$oid" : "5e5e291f10971053e843cadd" }, "name" : "Recovery", "year" : "2010", "artist" : { "$oid" : "5e5e27e710971053e843cada" }, "image" : "5zYkn_MmcW9YBbXQkO86k.jpeg" },
+{ "_id" : { "$oid" : "5e5e296410971053e843cade" }, "name" : "infinite", "year" : "1996", "artist" : { "$oid" : "5e5e27e710971053e843cada" }, "image" : "0CE2fkppE9ki1Qa4P3xZi.jpeg" },
+{ "_id" : { "$oid" : "5e5e29b010971053e843cadf" }, "name" : "McMxc A.D.", "year" : "1990", "artist" : { "$oid" : "5e5e27b710971053e843cad9" }, "image" : "0WGtFMf685up_b_svkzEi.jpeg" },
+{ "_id" : { "$oid" : "5e5e29e510971053e843cae0" }, "name" : "Le Roi Est Mort, Vive Le Roi!", "year" : "1996", "artist" : { "$oid" : "5e5e27b710971053e843cad9" }, "image" : "RlzkBU9-5dmgq0hYyzf6j.jpeg" }
+]

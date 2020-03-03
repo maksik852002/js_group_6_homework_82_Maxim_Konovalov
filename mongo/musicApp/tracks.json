@@ -1,0 +1,11 @@
+[
+{ "_id" : { "$oid" : "5e5e3798cdf8f96eb86b4db3" }, "name" : "Cold Wind Blows", "album" : { "$oid" : "5e5e291f10971053e843cadd" }, "duration" : "5:03" },
+{ "_id" : { "$oid" : "5e5e37cecdf8f96eb86b4db4" }, "name" : "On Fire", "album" : { "$oid" : "5e5e291f10971053e843cadd" }, "duration" : "3:33" },
+{ "_id" : { "$oid" : "5e5e3805cdf8f96eb86b4db5" }, "name" : "Infinite", "album" : { "$oid" : "5e5e296410971053e843cade" }, "duration" : "4:11" },
+{ "_id" : { "$oid" : "5e5e3844cdf8f96eb86b4db6" }, "name" : "Morphing Thru Time", "album" : { "$oid" : "5e5e29e510971053e843cae0" }, "duration" : "5:47" },
+{ "_id" : { "$oid" : "5e5e3871cdf8f96eb86b4db7" }, "name" : "Beyond The Invisible", "album" : { "$oid" : "5e5e29e510971053e843cae0" }, "duration" : "5:00" },
+{ "_id" : { "$oid" : "5e5e38ddcdf8f96eb86b4db8" }, "name" : "Principles Of Lust: Sadeness/Find Love/Sadeness", "album" : { "$oid" : "5e5e29b010971053e843cadf" }, "duration" : "11:43" },
+{ "_id" : { "$oid" : "5e5e38fecdf8f96eb86b4db9" }, "name" : "Mea Culpa", "album" : { "$oid" : "5e5e29b010971053e843cadf" }, "duration" : "5:03" },
+{ "_id" : { "$oid" : "5e5e392bcdf8f96eb86b4dba" }, "name" : "Back To The Rivers Of Belief: Way To Eternity/Hallelujah/The Rivers Of Belief", "album" : { "$oid" : "5e5e29b010971053e843cadf" }, "duration" : "10:36" },
+{ "_id" : { "$oid" : "5e5e39a5cdf8f96eb86b4dbb" }, "name" : "The Voice Of Enigma", "album" : { "$oid" : "5e5e29b010971053e843cadf" }, "duration" : "2:21" }
+]
